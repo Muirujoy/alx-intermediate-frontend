@@ -1,0 +1,9 @@
+teps to Install SASS:
+
+1. First, I made sure my system was up to date by running `sudo apt update`.
+
+2. I then checked if Node.js and npm were installed. If not, I installed them using `sudo apt install npm`.
+
+3. Once npm was installed, I used it to install SASS globally by running the command: `npm install -g sass`.
+
+4. Finally, I confirmed that SASS was successfully installed by running `sass --version`, which displayed the installed version of SASS.
